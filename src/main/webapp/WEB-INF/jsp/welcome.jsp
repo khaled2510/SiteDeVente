@@ -6,6 +6,6 @@
     <title>${title}</title>
 </head>
 <body>
-Welcome
+Welcome!
 </body>
 </html>
